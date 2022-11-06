@@ -1,5 +1,5 @@
 
-## Александр Коробицын   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; Москва
+## Alex Korobitsyn   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; Москва
 
    
 
@@ -8,29 +8,30 @@
 <div align="center">
   <a href=https://www.instagram.com/iamkorobitsyn>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/instagram.png"
-         alt="LinkedIn Badge" title="Instagram" alt="Java" width="100" height="100"/>
+         alt="LinkedIn Badge" title="Instagram" alt="Java" width="50" height="50"/>
   </a>
   
   <a href=https://www.instagram.com/iamkorobitsyn>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/socialSeparator.png"
-         alt="LinkedIn Badge" title="Instagram" alt="Java" width="50" height="100"/>
+         alt="LinkedIn Badge" title="Instagram" alt="Java" width="50" height="50"/>
   </a>
    <a href=https://www.instagram.com/iamkorobitsyn>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/instagram.png"
-         alt="LinkedIn Badge" title="Instagram" alt="Java" width="100" height="100"/>
+         alt="LinkedIn Badge" title="Instagram" alt="Java" width="50" height="50"/>
   </a>
   
   <a href=https://www.instagram.com/iamkorobitsyn>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/socialSeparator.png"
-         alt="LinkedIn Badge" title="Instagram" alt="Java" width="50" height="100"/>
+         alt="LinkedIn Badge" title="Instagram" alt="Java" width="50" height="50"/>
   </a>
    <a href=https://www.instagram.com/iamkorobitsyn>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/instagram.png"
-         alt="LinkedIn Badge" title="Instagram" alt="Java" width="100" height="100"/>
+         alt="LinkedIn Badge" title="Instagram" alt="Java" width="50" height="50"/>
   </a>
 </div>
 
 
+---
 
 
 </pre>
@@ -38,8 +39,7 @@
 
 
 <div id="header" align="center">
-  
-  ![Image alt](https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/nasaApisPrew.gif)
+
 
 
 ![Image alt](https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/Design.png)
