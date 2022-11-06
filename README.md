@@ -1,7 +1,6 @@
 
-## Alex Korobitsyn   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; Москва
+## Alex Korobitsyn  <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/headerSeparator.png" alt="LinkedIn Badge" title="Instagram" alt="Java" width="50" height="50"/>  Москва
 
-   
 
 
 
