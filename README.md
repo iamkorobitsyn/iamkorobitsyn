@@ -13,7 +13,7 @@
   
   <a href=https://www.instagram.com/iamkorobitsyn>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/socialSeparator.png"
-         alt="LinkedIn Badge" title="Instagram" alt="Java" width="50" height="50"/>
+         alt="LinkedIn Badge" title="Instagram" alt="Java" width="25" height="50"/>
   </a>
    <a href=https://www.instagram.com/iamkorobitsyn>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/instagram.png"
@@ -22,7 +22,7 @@
   
   <a href=https://www.instagram.com/iamkorobitsyn>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/socialSeparator.png"
-         alt="LinkedIn Badge" title="Instagram" alt="Java" width="50" height="50"/>
+         alt="LinkedIn Badge" title="Instagram" alt="Java" width="25" height="50"/>
   </a>
    <a href=https://www.instagram.com/iamkorobitsyn>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/instagram.png"
