@@ -1,7 +1,9 @@
 <div align="center">
 
-##  <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/headSeparator.png" alt="LinkedIn Badge" title="Instagram" alt="Java" width="50" height="50"/>  
-
+<img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/headSeparator.png" alt="LinkedIn Badge" title="Instagram" alt="Java" width="50" height="50"/> 
+  
+---
+  
 </div>
 
 
@@ -30,8 +32,6 @@
   </a>
 </div>
 
-
----
 
 
 </pre>
