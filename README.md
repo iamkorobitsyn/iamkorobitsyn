@@ -1,3 +1,10 @@
+<div>
+## Александр Коробицын     
+   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  Москва
+</div>
+
+
 <div id="badges">
   <a href=https://www.instagram.com/iamkorobitsyn>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/instagram.png"
