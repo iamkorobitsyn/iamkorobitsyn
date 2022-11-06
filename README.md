@@ -1,6 +1,7 @@
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/instagram.png" alt="LinkedIn Badge"/>
+    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/instagram.png" 
+         alt="LinkedIn Badge" title="Instagram" alt="Java" width="100" height="100"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
