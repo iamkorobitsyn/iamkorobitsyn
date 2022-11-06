@@ -1,6 +1,6 @@
 <div id="badges">
   <a href=https://www.instagram.com/iamkorobitsyn>
-    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/instagram.png" 
+    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/instagram.png"
          alt="LinkedIn Badge" title="Instagram" alt="Java" width="100" height="100"/>
   </a>
   <a href=https://www.instagram.com/iamkorobitsyn>
