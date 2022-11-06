@@ -1,5 +1,5 @@
 
-## Alex Korobitsyn  <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/headerSeparator.png" alt="LinkedIn Badge" title="Instagram" alt="Java" width="50" height="50"/>  Москва
+## Alex Korobitsyn  <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/headSeparator.png" alt="LinkedIn Badge" title="Instagram" alt="Java" width="50" height="50"/>  Москва
 
 
 
