@@ -55,7 +55,7 @@
 
 
 
-![Image alt](https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/nasaApis.png)
+![Image alt](https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/NasaApis.png)
   
   <img src="https://komarev.com/ghpvc/?username=iamkorobok-github-username&style=flat-square&color=blue" alt=""/>
 </div>
