@@ -23,18 +23,18 @@ alt="" title="Apple Documentation" alt="" width="40" height="40"/>
    </div>
 
 <div align="center">
-  <a href=https://www.instagram.com/iamkorobitsyn>
+  <a href=https://t.me/iamkorobitsyn>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/telegramIcon.png"
-         alt="LinkedIn Badge" title="Instagram" alt="Java" width="50" height="50"/>
+         alt="" title="Telegram" alt="" width="50" height="50"/>
   </a>
   
-  <a href=https://www.instagram.com/iamkorobitsyn>
+  <a href=https://t.me/iamkorobitsyn>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/socialSeparator.png"
          alt="" title="" alt="" width="25" height="50"/>
   </a>
-   <a href=https://www.instagram.com/iamkorobitsyn>
+   <a href=mailto:iamkorobitsyn@icloud.com>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/mailIcon.png"
-         alt="LinkedIn Badge" title="Instagram" alt="Java" width="50" height="50"/>
+         alt="" title="Mail" alt="" width="50" height="50"/>
   </a>
   
   <a href=https://www.instagram.com/iamkorobitsyn>
@@ -43,8 +43,9 @@ alt="" title="Apple Documentation" alt="" width="40" height="40"/>
   </a>
    <a href=https://www.instagram.com/iamkorobitsyn>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/istagramIcon.png"
-         alt="LinkedIn Badge" title="Instagram" alt="Java" width="50" height="50"/>
+         alt="" title="Instagram" alt="" width="50" height="50"/>
   </a>
+   
 </div>
 
 
@@ -73,9 +74,6 @@ alt="" title="Apple Documentation" alt="" width="40" height="40"/>
 ---
 
 <div id="header" align="center">
-
-
-
 
 </div>
 
