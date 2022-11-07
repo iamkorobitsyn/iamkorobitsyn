@@ -7,7 +7,7 @@ alt="" title="Apple Documentation" alt="" width="40" height="40"/>
     
 </a>
 <a href=https://developer.apple.com/documentation/technologies>
-<img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/headSeparator.png" alt="" title="" alt="" width="50" height="50"/> 
+<img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/arrowSeparator.png" alt="" title="" alt="" width="50" height="50"/> 
 </a>
   
 <a href=https://apps.apple.com/ru/app/xcode/id497799835?mt>
@@ -29,7 +29,7 @@ alt="" title="Apple Documentation" alt="" width="40" height="40"/>
   </a>
   
   <a href=https://t.me/iamkorobitsyn>
-    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/socialSeparator.png"
+    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/separator.png"
          alt="" title="" alt="" width="25" height="50"/>
   </a>
    <a href=mailto:iamkorobitsyn@icloud.com>
@@ -38,7 +38,7 @@ alt="" title="Apple Documentation" alt="" width="40" height="40"/>
   </a>
   
   <a href=https://www.instagram.com/iamkorobitsyn>
-    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/socialSeparator.png"
+    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/separator.png"
          alt="" title="" alt="" width="25" height="50"/>
   </a>
    <a href=https://www.instagram.com/iamkorobitsyn>
