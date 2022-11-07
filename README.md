@@ -55,7 +55,11 @@
 
 ---
 
-![Image alt](https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/nasaApisTest.png)
+</a>
+   <a href=https://www.instagram.com/iamkorobitsyn>
+    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/nasaApisTest.png"
+         alt="LinkedIn Badge" title="Instagram" alt="Java"/>
+</a>
   
 
 </div>
