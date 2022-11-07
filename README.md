@@ -57,7 +57,7 @@
 
 ![Image alt](https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/nasaApisTest.png)
   
-  <img src="https://komarev.com/ghpvc/?username=iamkorobok-github-username&style=flat-square&color=blue" alt=""/>
+
 </div>
 
 <div align="center">
@@ -69,7 +69,6 @@
 <div id="header" align="center">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamkorobitsyn)](https://git.io/streak-stats)
 
 
 </div>
