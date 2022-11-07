@@ -10,11 +10,11 @@ alt="" title="Apple Documentation" alt="" width="40" height="40"/>
 <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/headSeparator.png" alt="" title="" alt="" width="50" height="50"/> 
 </a>
   
-<a href=https://apps.apple.com/ru/app/xcode/id497799835?mt=12>
+<a href=https://apps.apple.com/ru/app/xcode/id497799835?mt>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/xcodeIcon.png"
          alt="" title="Xcode" alt="" width="40" height="40"/>
 </a>
-<a href=https://www.instagram.com/iamkorobitsyn>
+<a href=https://www.figma.com>
    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/figmaIcon.png"
         alt="" title="Figma" alt="" width="40" height="40"/>
   
