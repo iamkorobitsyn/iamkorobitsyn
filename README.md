@@ -1,13 +1,15 @@
 <div align="center">
   
-  <div align="center">
-  <a href=https://www.instagram.com/iamkorobitsyn>
-    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/swiftIcon.png"
-         alt="LinkedIn Badge" title="Instagram" alt="Java" width="40" height="40"/>
+<div align="center">
+<a href=https://www.instagram.com/iamkorobitsyn>
+<img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/swiftIcon.png"
+alt="LinkedIn Badge" title="Instagram" alt="Java" width="40" height="40"/>
+    
 </a>
-
+<a href=>
 <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/headSeparator.png" alt="" title="" alt="" width="50" height="50"/> 
 </a>
+  
 <a href=https://www.instagram.com/iamkorobitsyn>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/xcodeIcon.png"
          alt="LinkedIn Badge" title="Instagram" alt="Java" width="40" height="40"/>
