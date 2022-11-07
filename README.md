@@ -56,9 +56,9 @@
 ---
 
 </a>
-   <a href=https://www.instagram.com/iamkorobitsyn>
+   <a href=https://github.com/iamkorobitsyn/NASA-APIs>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/nasaApisTest.png"
-         alt="LinkedIn Badge" title="Instagram" alt="Java"/>
+         alt="" title="NASA APIs" alt="Swift"/>
 </a>
   
 
