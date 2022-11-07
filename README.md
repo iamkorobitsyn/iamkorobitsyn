@@ -1,26 +1,26 @@
-<div align="center">
+   <div align="center">
   
 <div align="center">
-<a href=https://www.instagram.com/iamkorobitsyn>
+<a href=https://developer.apple.com/documentation/technologies>
 <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/swiftIcon.png"
-alt="LinkedIn Badge" title="Instagram" alt="Java" width="40" height="40"/>
+alt="" title="Apple Documentation" alt="" width="40" height="40"/>
     
 </a>
-<a href=>
+<a href=https://developer.apple.com/documentation/technologies>
 <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/headSeparator.png" alt="" title="" alt="" width="50" height="50"/> 
 </a>
   
-<a href=https://www.instagram.com/iamkorobitsyn>
+<a href=https://apps.apple.com/ru/app/xcode/id497799835?mt=12>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/xcodeIcon.png"
-         alt="LinkedIn Badge" title="Instagram" alt="Java" width="40" height="40"/>
+         alt="" title="Xcode" alt="" width="40" height="40"/>
 </a>
 <a href=https://www.instagram.com/iamkorobitsyn>
    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/figmaIcon.png"
-        alt="LinkedIn Badge" title="Instagram" alt="Java" width="40" height="40"/>
+        alt="" title="Figma" alt="" width="40" height="40"/>
   
 ---
   
-</div>
+   </div>
 
 <div align="center">
   <a href=https://www.instagram.com/iamkorobitsyn>
