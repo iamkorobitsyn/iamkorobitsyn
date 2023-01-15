@@ -115,7 +115,7 @@ alt="" title="Apple Documentation" alt="" width="40" height="40"/>
 
 </a>
    <a href=https://github.com/iamkorobitsyn/CoreDataStack>
-    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/CoreDataStackFront.png"
+    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/CoreDataFront.png"
          alt="" title="Core Data Stack" alt="Swift"/>
 </a>
 
