@@ -60,7 +60,7 @@ alt="" title="Apple Documentation" alt="" width="40" height="40"/>
 
 </a>
    <a href=https://github.com/iamkorobitsyn/NASA-APIs>
-    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/OneDotPreviewFront"
+    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/OneDotPreviewFront.png"
          alt="" title="NASA APIs" alt="Swift"/>
 </a>
   
