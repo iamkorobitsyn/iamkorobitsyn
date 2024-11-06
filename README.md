@@ -127,23 +127,6 @@ alt="" title="Apple Documentation" alt="" width="40" height="40"/>
 
 ---
 
-<div id="header" align="center">
-
-</div>
-
-</a>
-   <a href=https://github.com/iamkorobitsyn/CoreDataStack>
-    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/CoreDataFront.png"
-         alt="" title="Core Data" alt="Swift"/>
-</a>
-
-</div>
-
-<div align="center">
-
-</div>
-
----
 
 <div id="header" align="center">
 
