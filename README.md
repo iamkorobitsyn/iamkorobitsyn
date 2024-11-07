@@ -2,13 +2,7 @@
 
 
 
-</pre>
 
-
-
-<div id="header" align="center">
-
----
 
 </a>
    <a href=https://github.com/iamkorobitsyn/OneDot>
