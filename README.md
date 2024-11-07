@@ -27,7 +27,7 @@ alt="" title="Apple Documentation" alt="" width="40" height="40"/>
          alt="" title="Telegram" alt="" width="50" height="50"/>
   </a>
 
-  j<a href=https://www.instagram.com/iamkorobitsyn>j
+  <a href=https://www.instagram.com/iamkorobitsyn>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/separator.png"
          alt="" title="" alt="" width="25" height="50"/>
   </a>
