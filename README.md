@@ -29,7 +29,7 @@ alt="" title="Apple Documentation" alt="" width="40" height="40"/>
 
   <a href=https://www.instagram.com/iamkorobitsyn>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/separator.png"
-         alt="" title="" alt="" width="25" height="50"/>
+         alt="" title="" alt="" width="5" height="50"/>
   </a>
   
    <a href=mailto:iamkorobitsyn@icloud.com>
