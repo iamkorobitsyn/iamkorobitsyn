@@ -26,8 +26,12 @@ alt="" title="Apple Documentation" alt="" width="40" height="40"/>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/telegramIcon.png"
          alt="" title="Telegram" alt="" width="50" height="50"/>
   </a>
+
+  <a href=https://www.instagram.com/iamkorobitsyn>
+    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/separator.png"
+         alt="" title="" alt="" width="25" height="50"/>
+  </a>
   
- 
    <a href=mailto:iamkorobitsyn@icloud.com>
     <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/mailIcon.png"
          alt="" title="Mail" alt="" width="50" height="50"/>
