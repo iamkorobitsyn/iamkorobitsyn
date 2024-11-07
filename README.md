@@ -4,7 +4,6 @@
 <a href=https://developer.apple.com/documentation/technologies>
 <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/swiftIcon.png"
 alt="" title="Apple Documentation" alt="" width="40" height="40"/>
-    
 </a>
 <a href=https://developer.apple.com/documentation/technologies>
 <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/arrowSeparator.png" alt="" title="" alt="" width="50" height="50"/> 
