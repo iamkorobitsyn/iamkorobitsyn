@@ -71,41 +71,4 @@ alt="" title="Apple Documentation" alt="" width="40" height="40"/>
 
 </div>
 
----
-
-<div id="header" align="center">
-
-</div>
-
-</a>
-   <a href=https://github.com/iamkorobitsyn/Architect>
-    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/ArchitectFront.png"
-         alt="" title="Architect" alt="Swift"/>
-</a>
-
-</div>
-
-<div align="center">
-
-</div>
-
----
-
-<div id="header" align="center">
-
-</div>
-
-</a>
-   <a href=https://github.com/iamkorobitsyn/CoreLocationStack>
-    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/CoreLocationStackFront.png"
-         alt="" title="CoreLocationStack" alt="Swift"/>
-</a>
-
-</div>
-
-<div align="center">
-
-</div>
-
----
 
