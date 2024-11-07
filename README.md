@@ -1,24 +1,4 @@
-<div align="center">
-  
-<div align="center">
-<a
-href=https://developer.apple.com/documentation/technologies>
-<img 
-src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/swiftIcon.png" alt="" title="Apple Documentation" alt="" width="30" height="30"/>
-  <\a>
-<a href=https://developer.apple.com/documentation/technologies>
-<img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/arrowSeparator.png" alt="" title="" alt="" width="50" height="50"/> 
-</a>
-  
-<a href=https://apps.apple.com/ru/app/xcode/id497799835?mt>
-    <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/xcodeIcon.png"
-         alt="" title="Xcode" alt="" width="40" height="40"/>
-</a>
-<a href=https://www.figma.com>
-   <img src="https://github.com/iamkorobitsyn/iamkorobitsyn/blob/main/figmaIcon.png"
-        alt="" title="Figma" alt="" width="40" height="40"/>
-  
----
+
   
    </div>
 
